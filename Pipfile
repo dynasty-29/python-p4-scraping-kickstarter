@@ -6,8 +6,9 @@ name = "pypi"
 [packages]
 bs4 = "0.0.1"
 ipdb = "0.13.9"
+pytest = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8.13"
+python_version = "3.12"
